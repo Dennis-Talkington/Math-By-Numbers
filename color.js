@@ -3,11 +3,11 @@ The array is arranged 0 through 9 so replace the appropriate one. */
 
 var col = [
   '#FFF', // 0 Don't touch this one
-  '#FFF', // 1
-  '#FFF', // 2
-  '#FFF', // 3
-  '#FFF', // 4
-  '#FFF', // 5
+  '#FFF', // 1 
+  '#FFF', // 2 
+  '#FFF', // 3 
+  '#FFF', // 4 
+  '#F00', // 5 Kristina
   '#FFF', // 6
   '#FFF', // 7
   '#FFF', // 8
