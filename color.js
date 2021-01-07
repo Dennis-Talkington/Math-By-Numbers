@@ -5,7 +5,7 @@ var col = [
   '#FFF', // 0 Don't touch this one
   '#F00', // 1 Dennis
   '#FFF', // 2 Becky
-  '#FFF', // 3 Alexandria
+  '#8B4513', // 3 Alexandria
   '#FFF', // 4 Emely
   '#FFF', // 5 Kristina
   '#FFF', // 6 Madeline
@@ -26,4 +26,5 @@ var col = [
      8  |  (3, -9) and (0, 0)   | y = -3x             '#00F'    | y = -3x + 18    '#F00'   
      9  |  (8, -1) and (0, 3)   | y = -2x + 15        '#00F'    | y = -(1/2)x + 3 '#000'
 */
+
 console.log(col);
