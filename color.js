@@ -7,7 +7,7 @@ var col = [
   '#FFF', // 2 Becky
   '#8B4513', // 3 Alexandria
   '#00F', // 4 Emely
-  '#FFF', // 5 Kristina
+  '#F00', // 5 Kristina
   '#DA9', // 6 Madeline
   '#FFF', // 7 Leah
   '#00F', // 8 Carson
