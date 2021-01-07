@@ -8,7 +8,7 @@ var col = [
   '#8B4513', // 3 Alexandria
   '#00F', // 4 Emely
   '#FFF', // 5 Kristina
-  '#FFF', // 6 Madeline
+  '#DA9', // 6 Madeline
   '#FFF', // 7 Leah
   '#FFF', // 8 Carson
   '#FFF', // 9 Brianna
@@ -28,3 +28,4 @@ var col = [
 */
 
 console.log(col);
+
