@@ -3,15 +3,15 @@ The array is arranged 0 through 9 so replace the appropriate one. */
 
 var col = [
   '#FFF', // 0 Don't touch this one
-  '#FFF', // 1
-  '#FFF', // 2
-  '#FFF', // 3
-  '#FFF', // 4
-  '#FFF', // 5
-  '#FFF', // 6
-  '#FFF', // 7
-  '#FFF', // 8
-  '#FFF', // 9
+  '#F00', // 1 Dennis
+  '#FFF', // 2 Becky
+  '#FFF', // 3 Alexandria
+  '#FFF', // 4 Emely
+  '#FFF', // 5 Kristina
+  '#FFF', // 6 Madeline
+  '#FFF', // 7 Leah
+  '#FFF', // 8 Carson
+  '#FFF', // 9 Brianna
 ]
 
 
