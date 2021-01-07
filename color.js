@@ -11,7 +11,7 @@ var col = [
   '#FFF', // 6 Madeline
   '#FFF', // 7 Leah
   '#FFF', // 8 Carson
-  '#FFF', // 9 Brianna
+  '#000', // 9 Brianna
 ]
 
 
